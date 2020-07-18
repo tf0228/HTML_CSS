@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.header-icon {
+  float: left;
+  padding: 20px;
+}
+
+.header-text {
+  color: #848282;
+}
+
+main {
+  width: 840px;
+  margin: 50px auto 50px;
+}
+
+.content-box {
+  margin-top: 30px;
+}
+
+.content-item {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.content-text {
+  color: #848282;
+}
+
